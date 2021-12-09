@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**brandonmay687/brandonmay687** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+ Hi there 👋
 
 - 🔭 I’m currently working on completing my full stack JavaScript certification with Bloom Tech, FKA Lambda School
 - 🌱 I’m currently learning Algorithms and Data Structures
