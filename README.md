@@ -1,4 +1,4 @@
- Hi there 👋
+ ### Hi there 👋, I'm Brandon
 
 - 🔭 I’m currently working on completing my full stack JavaScript certification with Bloom Tech, FKA Lambda School
 - 🌱 I’m currently learning Algorithms and Data Structures
