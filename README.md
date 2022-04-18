@@ -7,7 +7,7 @@
 
 🌱 I’m currently exploring Algorithms and Data Structures
 
-🔭 I’m currently completing my JavaScript certification with Bloom Tech, FKA Lambda School
+🔭 Recently completed the fullstack certification with Bloom Tech, FKA Lambda School
 
 🤔 I’m interested in collaborating on algorithm and backend for web design projects 
 
